@@ -8,6 +8,8 @@ The connection between .NET and OCCT (C++) level is provided by proxy library **
 The proxy library contains a single *ref* class encapsulating OCCT viewer and providing the functionality to manipulate this viewer
 and to import / export OCCT shapes from / to several supported CAD file formats (IGES, STEP, BREP).
 
+![sample screenshot](/occt_csharp_sample.png)
+
 The sample implements two approaches to the development of a user interface with .NET.
 Both applications provide the same functionality as the standard OCCT Import/Export sample.
 The first project is called *IE_WinForms* and uses Windows Forms for GUI.
