@@ -1,0 +1,3 @@
+rem Environment configuration template for msvc.bat (to be renamed as custom.bat)
+
+set "CASROOT=%~dp0../../occt.git"
