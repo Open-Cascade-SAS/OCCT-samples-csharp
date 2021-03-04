@@ -1,7 +1,7 @@
 OCCT .NET sample
 ================== 
 
-This sample demonstrates how to use OCCT libraries in <b>.NET</b> application written in **CSharp**
+This sample demonstrates how to use OCCT libraries in <b>.NET</b> application written in **CSharp** or **VB.NET** (Visual Basic .NET)
 and using **Windows Forms** or **Windows Presentation Foundation** (WPF).
 
 The connection between .NET and OCCT (C++) level is provided by proxy library **OCCProxy**, written in C++/CLI.
@@ -12,6 +12,7 @@ The sample implements two approaches to the development of a user interface with
 Both applications provide the same functionality as the standard OCCT Import/Export sample.
 The first project is called *IE_WinForms* and uses Windows Forms for GUI.
 The second application is called *IE_WPF_WinForms* and uses Windows Presentation Foundation.
+The third project is called *IE_WinFormsVB* is written in VB.NET and uses Windows Forms for GUI.
 
 Note a few important details:
 
