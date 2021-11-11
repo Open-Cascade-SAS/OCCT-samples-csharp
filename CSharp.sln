@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IE_WinForms", "WinForms\IE_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OCCTProxy", "OCCTProxy\OCCTProxy.vcxproj", "{969912D9-78E7-4AB8-B4FF-6B52B4F03991}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IE_WinFormsVB", "WinFormsVB\IE_WinFormsVB.vbproj", "{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -38,6 +40,14 @@ Global
 		{969912D9-78E7-4AB8-B4FF-6B52B4F03991}.Release|Win32.Build.0 = Release|Win32
 		{969912D9-78E7-4AB8-B4FF-6B52B4F03991}.Release|x64.ActiveCfg = Release|x64
 		{969912D9-78E7-4AB8-B4FF-6B52B4F03991}.Release|x64.Build.0 = Release|x64
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Debug|Win32.ActiveCfg = Debug|x86
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Debug|Win32.Build.0 = Debug|x86
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Debug|x64.ActiveCfg = Debug|x64
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Debug|x64.Build.0 = Debug|x64
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Release|Win32.ActiveCfg = Release|x86
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Release|Win32.Build.0 = Release|x86
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Release|x64.ActiveCfg = Release|x64
+		{9E81422F-6CF5-4A47-B5FD-4F50127ABFF2}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
