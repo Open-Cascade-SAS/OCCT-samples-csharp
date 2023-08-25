@@ -27,7 +27,7 @@ Note a few important details:
   There is an alternative method of wrapping individual OCCT classes to C# equivalents to make their full API available to a C# user
   and to let the code be programmed on C# level similarly to C++ one.
   See the description of **OCCT C# Wrapper** in **Advanced Samples and Tools** at
-  http://www.opencascade.org/support/products/advsamples
+  https://old.opencascade.com/content/advanced-samples-and-tools
 
 - In WPF sample, **WinForms** control is used to encapsulate OCC viewer since WPF does not provide the necessary interface to embed OpenGL view.
   Other possible solution could be to render OpenGL scene in an off-screen buffer and to map it
